@@ -13,7 +13,7 @@ int main()
 			scanf("%d",&a3);
 			printf("enter the available input 4");
 			scanf("%d",&a4);
-		int i=0,j=0,c;
+		int i=0,j=0,c
 
 	for(j=0;j<n;j++)
 	{
