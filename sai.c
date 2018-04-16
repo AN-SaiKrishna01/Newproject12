@@ -45,12 +45,7 @@ int main()
 						com[i]=1;
 						//p=p+1;
 						break;
-						
-					}
-				
-						
-					
-				}}
+					}}}
 				printf("process\tremaining burst\n");
 				for(i=0;i<n;i++){
 					printf("\n%d\t%d",p[i],bt[i]);
@@ -68,11 +63,7 @@ int main()
 						//p=p+1;
 						break;
 						
-					}
-				
-						
-					
-				}}
+					}}}
 					printf("\n process\tremaining burst\n");
 				for(i=0;i<n;i++){
 					printf("\n%d\t%d",p[i],bt[i]);
@@ -86,12 +77,4 @@ int main()
 			bubbleSort(bt,n,p);
 				for(i=0;i<n;i++){
 					printf("\n  completed program %d : p[%d]",i+1,p[i]);
-				}
-					
-				
-				
-				
-			
-		
-	}
-
+				}}
