@@ -11,7 +11,7 @@ int main()
 			scanf("%d",&a2);
 			printf("enter the available input 3");
 			scanf("%d",&a3);
-			printf("enter the available input 4");
+			printf("enter the available input 4")
 			scanf("%d",&a4);
 		int i=0,j=0,c;
 
