@@ -42,7 +42,7 @@ int main()
 			N1[i]=M1[i]-A1[i];
 			N2[i]=M2[i]-A2[i];
 			N3[i]=M3[i]-A3[i];
-			N4[i]=M4[i]-A4[i];
+			N4[i]=M4[i]-A4[i]
 	}
 	for(i=0;i<n;i++)
 	{
